@@ -1,5 +1,7 @@
 # which-pm-runs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/which-pm-runs.svg)](https://greenkeeper.io/)
+
 > Detects what package manager executes the process
 
 [![npm version](https://img.shields.io/npm/v/which-pm-runs.svg)](https://www.npmjs.com/package/which-pm-runs) [![Build Status](https://img.shields.io/travis/zkochan/which-pm-runs/master.svg)](https://travis-ci.org/zkochan/which-pm-runs)
